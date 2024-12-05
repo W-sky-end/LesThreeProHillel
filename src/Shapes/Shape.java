@@ -16,7 +16,7 @@ public interface Shape {
 
         }
     }
-    class Triangle implements Shape{
+    class Triangle implements Shape {
         private double base;
         private double height;
 
