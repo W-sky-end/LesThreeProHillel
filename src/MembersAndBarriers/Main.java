@@ -9,8 +9,8 @@ public class Main {
         };
 
         Barriers[] barriers = {
-                new Barriers.RunningTrack(950),
-                new Barriers.Wall(3)
+                new RunningTrack(950),
+                new Wall(3)
         };
 
         for (InfoMembers member : members) {
